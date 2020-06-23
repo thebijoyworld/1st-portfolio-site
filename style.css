@@ -1,0 +1,67 @@
+body{
+    margin: 0px;
+    font-family: 'Chelsea Market', cursive;
+}
+h1 {
+    font-size: 50px;
+    font-family: 'Chelsea Market', cursive;
+}
+.Name-Design{
+    color: orange;
+}
+.half-width {
+    width: 30%;
+    float: left;
+    margin-left: 5% ;
+    padding-left: 2% ;
+   
+}
+.Top-Banner
+{
+    background-image:  url("Image/top-banner.png");
+    background-repeat: no-repeat;
+}
+section
+{
+    height: 500px;
+    padding-bottom: 200;
+}
+.link-button
+{
+    text-decoration: none;
+   background-image: linear-gradient(50deg, lightsalmon, red );
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: whitesmoke;
+    font-weight: 550;
+}
+.sc{
+    font-size: 50px;
+    color: mediumorchid;
+    background-image: url(Image/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+  }
+.box-shadow{
+    box-shadow: 10px 10px 50px rgb(26, 138, 153);
+    height: 60%
+}
+.experience-area{
+    float: left;
+    background-image: url(Image/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#full-stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, lightsalmon, tomato);
+    border-image-slice: 2;
+}
+#baby-web{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, blue, tomato);
+    border-image-slice: 2;
+}
+footer p{
+    text-align: center;
+}
